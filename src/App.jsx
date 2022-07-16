@@ -1,4 +1,4 @@
-import { useState, useEffect, React } from 'react'
+import { useState } from 'react'
 import './App.css'
 import EmptySlots from './emptySlot'
 import MoleContainer from './moleContainer'
