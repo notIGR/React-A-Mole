@@ -1,10 +1,12 @@
 import React from 'react'
+import Mole from './mole'
 
-const MoleContainer = () => {
+const MoleContainer = (props) => {
 
     return(
         <div>
-            <p>Mole Container!</p>
+            <h2>Mole Container!</h2>
+            <Mole />
         </div>
     )
 }

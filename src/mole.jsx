@@ -4,7 +4,7 @@ const Mole = () => {
 
     return(
         <div>
-            <p>Mole!</p>
+            <img src="src\mole.jsx" alt="mole" />
         </div>
     )
 }
